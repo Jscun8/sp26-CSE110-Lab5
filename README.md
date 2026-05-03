@@ -1,4 +1,7 @@
 # Lab 5 
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
 
 Name: Jaylen Cun
+
+Link to expose.html: https://jscun8.github.io/sp26-CSE110-Lab5/expose.html
+
+Link to explore.html: https://jscun8.github.io/sp26-CSE110-Lab5/explore.html
